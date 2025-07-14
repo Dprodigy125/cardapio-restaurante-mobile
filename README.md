@@ -54,7 +54,7 @@ Este é um projeto desenvolvido como parte do **Trabalho Prático da disciplina 
 Este repositório contém todo o código-fonte do projeto, bem como os recursos
 visuais utilizados e instruções para execução local.
 ---
-**Aluno:** [Seu Nome Aqui]
+**Aluno:** Diogo de Souza Oliveira
 
 **Curso:** Arquitetura de software distribuído
 
